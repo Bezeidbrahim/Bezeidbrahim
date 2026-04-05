@@ -2,8 +2,12 @@
 <h3 align="center">Software Engineering Student | Moscow, Russia 🇷🇺</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/@Brahimbezeid"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://
+https://vk.com/id843157562
+"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
+  <a href="https://[facebook.com/YOUR_FACEBOOK_ID](https://www.facebook.com/share/1ELw1285o5/)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="Я пользуюсь мессенджером MAX. Присоединяйся! https://max.ru/u/f9LHodD0cOIdtOnC7GITA-dXN7kH5jfu1ycx2e3SSZYxoTCl_FaQXMG_aYc"><img src="https://img.shields.io/badge/MAX-FFD700?style=for-the-badge&logo=m&logoColor=black" /></a>
 </p>
 
 ---
